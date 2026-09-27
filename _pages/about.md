@@ -9,26 +9,29 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>I'm in E Portland, by Division & SE 26th</p>
+    <p>Reach me at curtpw((at))gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false # true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm trying to organize a Sumerian and Akkadian language study group. I need to site read Sumerian (and speak it, to the extent such things are possible) cuneiform for a personal project. I'm great at building things but very bad at languages, so this has been on the back burner for several months. I'm very flexible about the subject material if people are more interested in reading about Sumerian art/history/religion - any of that would help me get motivated with Sumerian grammar.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm really hoping to find other people interested in organizing such a group, or even better, someone with an legit background in Assyriology. I'm willing to put quite a bit of effort into this.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Akkadian was the lingua franca of mesopotamia for thousands of years. Babylonian and Assyrian are dialects of Akkadian. 
+
+Sumerian is more than just the founding language of mesopotamia. Long after the fall of Ur it continued to fulfill a crucial religious and spiritual role. Sumerian is the language spoken before the flood when divinity still walked the earth.
+
+Sumerian → Akkadian → Phoenician (alphabet) → ancient Greek → Latin → Norman French → English you are reading now. This is a simplified chronology of influence, these languages are very different from one another. That being said, if you chase the history of Western Civ back in time as far as possible you will find yourself in ancient Sumer.  
