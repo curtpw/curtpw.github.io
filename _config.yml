@@ -2,12 +2,20 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Sumerian and Akkadian # blank # the website title (if blank, full name will be used instead)
+title: 𒈨𒆠𒂗𒄀𒊏 # Sumerian and Akkadian # blank # the website title (if blank, full name will be used instead)
 first_name: # You
 middle_name: # R.
 last_name: # Name
 contact_note: >
-  You can reach me by email curtpw((at))gmail.com
+  Reach me by email curtpw((at))gmail.com
+  𒉆𒈗𒀭𒋫 𒇯𒁺𒉈𒀀𒁀
+  𒉣𒉆𒈗𒆷
+  𒉣𒀉𒇻𒅆𒈗
+  𒈬 𒉌𒀝
+  𒀉𒋭𒃻𒈬 𒉌𒀝
+  𒉣𒁀
+  𒉆𒈗𒁉𒂦𒁾𒉄
+
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A little reading/teaching cuneiform proposal website 
 footer_text: >
@@ -356,8 +364,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [White]
+  first_name: [Curt, A.]
 
   style: apa
   locale: en
