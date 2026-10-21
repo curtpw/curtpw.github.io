@@ -1,47 +1,17 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+permalink: /𒊩𒌆𒈨𒊏𒌓𒈦𒄘𒃼𒌓𒁺𒀀/
+title: 𒊩𒌆𒈨𒊏𒌓𒈦𒄘𒃼𒌓𒁺𒀀
+description: 𒊩𒍣𒈨𒉈𒅍𒊒𒆠𒉘𒀭𒀀
 nav: true
 nav_order: 4
 ---
 
-{% if site.data.repositories.github_users %}
-
-## GitHub users
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
-
----
-
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
-
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
-
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-{% if site.data.repositories.github_repos %}
-
-## GitHub Repositories
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
+𒊩𒌆𒈨 𒊏 𒌓 𒈦𒄘𒃼𒌓𒁺𒀀<br>
+𒊩 𒍣 𒈨𒉈 𒅍𒊒 𒆠 𒉘 𒀭𒀀<br>
+𒉡𒈪𒉭𒀭𒈾𒈽𒆟 𒃲𒃲𒆷<br>
+𒂇 𒍣𒉈 𒆠 𒉘 𒉆𒂗𒈾𒁺 𒈠<br>
+𒈨 𒁹𒑏𒁉 𒁲𒅗𒂵<br>
+𒊩𒌆𒈬 𒈨 𒃲𒃲𒆷 𒊕 𒁉 𒍝𒂊𒈨𒂗<br>
+𒈨 𒈬𒂊𒅍 𒈨𒍪 𒈬𒂊𒇲<br>
+𒈨 𒈬𒂊𒌴 𒈨𒃮𒍝 𒉈𒋰<br>
