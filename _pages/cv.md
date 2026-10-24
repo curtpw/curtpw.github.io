@@ -1,11 +1,9 @@
 ---
-layout: cv
+layout: page
 permalink: /𒌓𒃲𒈨𒉈/
 title: 𒌓𒃲𒈨𒉈
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
 description: 𒈹𒀞𒀀𒉎𒈨𒉈𒅍𒊒
 toc:
   sidebar: left
