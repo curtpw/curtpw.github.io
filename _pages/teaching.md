@@ -1,15 +1,67 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /𒂗𒈤𒁲/
+title: 𒂗𒈤𒁲
+description: 𒂗 𒈤𒁲 𒀭𒆠 𒉪𒅅 𒉎𒋼𒈾 𒀀𒀀𒂗𒆠𒄞𒁮𒀀 𒊑𒀀 𒄠𒃲𒂊𒌅𒁕
 nav: true
 nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+𒂗 𒈤𒁲 𒀭𒆠 𒉪𒅅<br>
+𒀀𒀀𒂗𒆠𒄞𒁮𒀀 𒊑𒀀 𒄠𒃲𒂊𒌅𒁕<br>
+𒊩 𒅗𒂵 𒆳 𒃲 𒂗 𒆤 𒇷 𒆠 𒉘𒀭 𒆬𒂵<br>
+𒈗𒍪𒀊𒀀 𒆕 𒀀 𒆳 𒆳𒋫𒅍𒆷<br>
+𒈤 𒉣 𒂵 𒁺 𒁀<br>
+𒄑𒈪𒁉 𒀭 𒆠𒀀 𒌋𒌆 𒆷<br>
+𒌁 𒈾 𒌦 𒈠 𒇲 𒀀<br>
+𒂗 𒆠 𒂗 𒃶 𒅅𒆷 𒀀 𒉣 𒈾 𒆤 𒉈<br>
+𒉡𒁶𒄷𒄭 𒅅𒂍𒆳 𒊏 𒃮 𒅅𒀭𒆠𒀀<br>
+𒂍𒍪 𒈤 𒍪𒀊 𒋫 𒋛 𒂵 𒁴𒃲𒀭𒆠𒀀<br>
+𒂗𒆠𒅆𒁹 𒅍𒆷𒉌 𒆳 𒄀 𒁲 𒁲<br>
+𒄋 𒅇 𒌅 𒇻 𒅆 𒅇 𒌅 𒁕<br>
+𒅇𒌅𒁇 𒅇 𒌅 𒁕<br>
+𒁺 𒈠 𒋛 𒅗 𒂵 𒄯 𒊕𒂷𒅗<br>
+𒅊 𒂵 𒁀 𒇽 𒉡 𒆭 𒆭 𒁕<br>
+𒌦𒈠 𒄀 𒄬 𒄬𒆷𒁶 𒅆 𒍪 𒅎 𒅅<br>
+𒌓 𒂊 𒌗 𒂍 𒁀 𒆭 𒆭 𒈬𒌌𒌌𒁕<br>
+𒈬𒌌𒌺 𒂊 𒁇 𒈬 𒁕<br>
+𒁇 𒆥𒌓 𒁕𒋛𒁲 𒁲 𒂊 𒁕<br>
+𒀀 𒀀𒂗 𒆠 𒌦𒊕𒋛 𒀀 𒁀 𒈗 𒁉 𒍝 𒂊𒈨 𒂗<br>
+𒅗 𒁀 𒀀 𒍪 𒃻𒅎 𒇻 𒇻 𒃶 𒅅𒆠 𒉈 𒅁 𒍑<br>
+𒉺 𒍪 𒄖 𒄧 𒁀 𒅊 𒂵 𒃰 𒄩 𒀜 𒂊 𒌌 𒀀<br>
+𒀭𒊑 𒂊 𒉈 𒅗𒈨𒋼 𒅎𒈪𒌈𒅅<br>
+𒌁 𒁀 𒆕 𒀀 𒋠𒋤 𒂊 𒈾 𒉆<br>
+𒇇𒍣 𒃢 𒍣 𒈾 𒁻 𒂊 𒈨𒋼 𒅎𒈪𒌈𒅅<br>
+𒃷 𒍣𒁕𒌝𒈪 𒅔𒊏<br>
+𒄦 𒇯 𒄦 𒂊 𒄘 𒅎 𒁕 𒄥 𒊑<br>
+𒉌𒈾 𒉆𒂵 𒈾 𒉆 𒉣𒇬 𒂊 𒉆 𒁺<br>
+𒉺𒇻 𒉈 𒄿 𒇻 𒇴 𒈠 𒈾 𒄭 𒄀 𒅎 𒈪 𒅁 𒁉<br>
+𒀖𒆪𒉈 𒁔 𒁔𒊏𒅗𒈾 𒌓 𒅎 𒁲 𒉌 𒅁𒉌𒂊<br>
+𒆥𒋝 𒋼𒀕𒃲 𒀭𒊑 𒂊 𒉈 𒅗 𒈨 𒋼 𒅎𒈪𒅁𒅅<br>
+𒅗𒍪 𒂊 𒀉𒆗 𒉌 𒁶 𒂵 𒈬 𒉌 𒅅
+𒄞𒀉𒄥 𒊏 𒁶 𒆦 𒀀 𒈬 𒌦𒌌𒌌<br>
+𒅗𒍪 𒆠 𒂖 𒂊 𒄭 𒇷 𒀀 𒉌 𒁶 𒊕𒂷𒈬 𒉌 𒅔 𒅅<br>
+𒌷 𒃻𒃻𒊏 𒁉 𒌦𒂊 𒅆𒂍 𒈬 𒂊<br>
+𒋧 𒂵 𒀀𒀭 𒆜𒂊 𒀀𒀭𒊏<br>
+𒆕 𒀀𒀉 𒁉 𒈾𒋤𒂊<br>
+𒂗𒂗 𒂊 𒉈 𒁈 𒁈 𒆤 𒂊 𒉈<br>
+𒁉 𒄾 𒄾 𒆷 𒁕 𒁲 𒁲 𒂊 𒉈<br>
+𒍝𒀀𒁕 𒆳 𒃲 𒂗𒆤𒇷 𒀉 𒈬 𒌦 𒁕𒀭𒉘<br>
+𒂗𒆠𒂗 𒃶 𒅅𒆷𒂗𒂵<br>
+𒂗 𒀭 𒉌 𒆠 𒉘𒃶 𒌌 𒉣 𒂵<br>
+𒅗𒂵 𒁇 𒆠𒁉 𒃻𒉆 𒋻 𒊑 𒃲 𒍪<br>
+𒌓𒉈 𒊕𒁀 𒀊 𒄄 𒌗 𒂍 𒁀𒁀𒀭𒆭<br>
+𒁀 𒂊 𒀀 𒇯𒁺 𒉈 𒁉 𒁲 𒁀𒀊𒅗<br>
+𒌦𒆠 𒁀 𒉈𒅔<br>
+𒈾𒃰 𒁉 𒉈 𒅔𒍑<br>
+𒆪 𒂍 𒁀 𒉈 𒅔 𒄄<br>
+𒂗 𒌦𒆠 𒁀 𒉈 𒅔 𒄀 𒂗<br>
+𒀀𒀀𒂗𒆠 𒌦𒆰𒀀𒌓𒁺 𒉌 𒆰 𒍣 𒃶𒄿𒄿<br>
+𒉡𒁶 𒄷𒄭 𒇇 𒍣 𒌓𒁺 𒉌 𒃢 𒍣 𒃶 𒅇 𒌅<br>
+𒀖 𒆰 𒌓𒁺 𒉌 𒀫 𒍣 𒃶 𒅇 𒌅<br>
+𒍚𒍣 𒌓𒁺 𒉌 𒍣 𒃶 𒅇 𒌅<br>
+𒃷𒉌 𒃷 𒍣 𒅇 𒌦 𒌓𒁺 𒂗<br>
+𒇯𒄦 𒂊 𒀭 𒂔𒈾𒄘 𒄷 𒈬 𒌦𒄥𒄥𒊑<br>
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+<a href='https://www.ethanjhulbert.org/sumerian-literature/scholar/1.1.3'>Enki and the world order

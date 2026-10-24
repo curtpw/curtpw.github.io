@@ -1,12 +1,37 @@
 ---
 layout: cv
-permalink: /cv/
-title: CV
+permalink: /𒌓𒃲𒈨𒉈/
+title: 𒌓𒃲𒈨𒉈
 nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: 𒈹𒀞𒀀𒉎𒈨𒉈𒅍𒊒
 toc:
   sidebar: left
 ---
+
+𒌓𒃲 𒈨𒉈<br>
+𒈹𒀞𒀀𒉎𒈨𒉈 𒅍𒊒<br>
+𒆠𒂗𒆤𒇷 𒉈 𒅔𒅗𒂵<br>
+𒋢𒊊𒊓 𒊊𒂷𒅎 𒈠 𒍣 𒍣𒉈𒂗<br>
+𒋝𒉏 𒈠 𒆤𒌑𒁶<br>
+𒁶𒈤 𒁳 𒉌<br>
+𒌨 𒊕𒃲 𒃲 𒄘𒌇 𒁉𒁶<br>
+𒅗𒁉𒆠 𒈬 𒆠 𒄩𒊏𒀊<br>
+𒌨 𒊕𒃲 𒄘 𒌇 𒈗 𒊩𒌆 𒂊 𒉈<br>
+𒂊𒆠 𒄩 𒊏 𒀊 𒄄 𒄄<br>
+𒅗𒁉𒆠 𒄩𒊏 𒀊𒂊<br>
+𒊩𒌆 𒈬𒍪𒀊 𒋫 𒅆 𒈬 𒉌 𒅔 𒃻<br>
+𒀭𒉌 𒊕𒁉 𒄊𒆠 𒈬 𒈬𒊏𒀊𒅗<br>
+𒀭𒈗𒁕𒈨 𒁀𒀀𒈨𒂗<br>
+𒂗𒆤𒁶𒍠 𒄄 𒋛 𒀀 𒈨𒂗<br>
+𒅗 𒈤 𒌺 𒈾 𒈬 𒌦𒁇𒊑𒂗<br>
+𒉢𒁶𒀭𒋫𒌺𒈾𒅗<br>
+𒍣𒁺 𒈬 𒌦 𒉌 𒉈𒊒𒁺𒈬𒉌𒆪 𒉈𒊒 𒈬 𒉌<br>
+𒍣𒁺 𒂍𒃲𒆷 𒌓𒉆𒈪 𒈬 𒈾𒌓𒁺<br>
+𒁉 𒅗𒂵 𒁉 𒅎𒈠𒉌𒅁𒄄𒄄𒅔<br>
+𒈗𒊏𒌦𒈬 𒈾<br>
+𒅆𒍪 𒀀𒀭 𒊕𒆠 𒍪 𒂂 𒁮<br>
+𒂗𒆤𒇷 𒍝 𒀀 𒊏 𒈬𒊏𒀭<br>
+𒁄𒁄𒂊𒈹𒄰<br>
